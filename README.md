@@ -19,7 +19,7 @@ Follow these steps to execute the files:
 ### 1. Download the Project Files:
 Clone or download the repository:
 ```bash
-git clone https://github.com/YashRaythatha/NLP-Biomedical-NER
+git clone https://github.com/yashnayi234/NLP-Biomedical-NER
 ```
 Alternatively, download the files manually.
 
